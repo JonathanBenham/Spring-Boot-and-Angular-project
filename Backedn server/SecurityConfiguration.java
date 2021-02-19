@@ -1,4 +1,4 @@
-package com.globomatics.bike.config;
+package com.jonathan.motorcycle.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
